@@ -18,33 +18,6 @@ export default [{
         resource: 'client',
         action: 'read',
 
-    },
-    {
-        title: 'reserva lista',
-        route: 'reserva-index',
-        icon: 'ShoppingCartIcon',
-
-        resource: 'client',
-        action: 'read',
-
-    },
-    {
-        title: 'reserva create',
-        route: 'reserva-create',
-        icon: 'ShoppingCartIcon',
-
-        resource: 'client',
-        action: 'read',
-
-    },
-    {
-        title: 'reserva show',
-        route: 'reserva-show',
-        icon: 'ShoppingCartIcon',
-
-        resource: 'client',
-        action: 'read',
-
-    },
+    }
 
 ]
